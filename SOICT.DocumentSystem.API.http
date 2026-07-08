@@ -1,0 +1,6 @@
+@SOICT.DocumentSystem.API_HostAddress = http://localhost:5275
+
+GET {{SOICT.DocumentSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

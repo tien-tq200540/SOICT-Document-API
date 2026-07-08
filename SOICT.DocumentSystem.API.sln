@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOICT.DocumentSystem.API", "SOICT.DocumentSystem.API.csproj", "{D7EA5849-AAA9-48DE-AA6E-133356FE23D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EA5849-AAA9-48DE-AA6E-133356FE23D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EA5849-AAA9-48DE-AA6E-133356FE23D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EA5849-AAA9-48DE-AA6E-133356FE23D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EA5849-AAA9-48DE-AA6E-133356FE23D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90562D18-222B-4611-ADA5-352C2AC40359}
+	EndGlobalSection
+EndGlobal
